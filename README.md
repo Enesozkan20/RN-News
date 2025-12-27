@@ -6,10 +6,7 @@ A modern, cross-platform mobile news application built with React Native and Exp
 ![ScreenRecording2025-12-27at12 29 23-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/a7b30f27-261a-4223-8016-f4f8ac9299e9)
 
 ## ✨ Features
-*   **Latest News Feed**: Browse top and breaking news articles.
-*   **Multiple Categories**: Filter news by categories like Technology, Business, Sports, and more.
-*   **Search Functionality**: Find articles on specific topics.
-*   **Article Details**: View full articles with images, descriptions, and sources.
+*   **Article Details**: View full articles with image and descriptions.
 *   **Cross-Platform**: Works on both iOS and Android devices.
 
 ## 🛠️ Tech Stack
@@ -20,6 +17,6 @@ A modern, cross-platform mobile news application built with React Native and Exp
 
 ## 📋 Prerequisites
 *   Node.js (v16 or newer)
-*   npm or yarn
+*   npm
 *   Expo Go app on your physical device (optional)
 
